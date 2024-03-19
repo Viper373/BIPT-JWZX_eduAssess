@@ -1,4 +1,4 @@
-# JWZX_eduAssess
+# BIPT-JWZX_eduAssess
 ### 依赖下载和安装：
 利用urllib、subprocess、pathlib等库下载Windows端OCR依赖。
 
